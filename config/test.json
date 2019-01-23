@@ -1,0 +1,12 @@
+{
+  "handlers": "stubs",
+  "logging": {
+    "level": "none"
+  },
+  "marvel": {
+    "key": {
+      "public": "",
+      "private": ""
+    }
+  }
+}
